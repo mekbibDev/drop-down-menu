@@ -1,0 +1,19 @@
+{
+  "name": "@mekbib/drop-down-menu",
+  "version": "1.1.0",
+  "description": "to create drop down effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekbibLovesTest/drop-down-menu.git"
+  },
+  "author": "mekbibtare@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekbibLovesTest/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/mekbibLovesTest/drop-down-menu#readme"
+}
